@@ -146,7 +146,7 @@
 
         <div class="equal width row">
             <div class="column">
-                <form action="index.php" method="post" class="ui form">
+                <form action="action.php" method="post" class="ui form">
                     <div class="field">
                         <label>Contrat</label>
                         <select name="game_type" id="" class="ui fluid dropdown">
@@ -195,7 +195,7 @@
             <div class="column">
                 <h2 class="ui header centered">
                     <!-- Change name -->
-                    <form action="index.php" method="post" class="ui form">
+                    <form action="action.php" method="post" class="ui form">
                         <label>Choissier les noms des joueurs</label>
                         <div class="five fields">
                             <div class="field">
